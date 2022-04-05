@@ -1,5 +1,6 @@
 ## Praticando com Pandas
- Repositório com as ferramentas principais de Python para análise de dados com Python .
+
+Repositório com as ferramentas principais de Python para análise de dados com Python.
  
  **Assuntos abordados**:
  - Estrutura de dados
